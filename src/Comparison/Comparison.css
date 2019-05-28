@@ -1,0 +1,13 @@
+.showInfoTable.ant-table-wrapper{
+	zoom: 0.5;
+}
+th.column-icon,
+td.column-icon {
+	text-align: center !important;
+	width: 100px;
+}
+th.column-name,
+td.column-name {
+	text-align: center !important;
+  	width: 200px;
+}
